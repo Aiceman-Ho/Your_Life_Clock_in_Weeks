@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-If you want to use it quickly, just visit (https://your-live-clock.netlify.app).
+If you want to use it quickly, just visit ([https://your-life-clock-in-weeks.pages.dev/]).
 
 
 Currently, two official plugins are available:
